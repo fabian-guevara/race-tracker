@@ -1,5 +1,6 @@
 import './App.css';
-import CupButtonsWrapper from "./Cup/CupButtonsWrapper"
+import CupButtonsWrapper from "./components/CupButtons/CupButtonsWrapper"
+
 function App() {
   return (
     <div className="App">
