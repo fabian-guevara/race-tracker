@@ -1,0 +1,10 @@
+.cupButton{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 15%;
+}
+
+.cupName{
+    color: #fc03e3;
+}
